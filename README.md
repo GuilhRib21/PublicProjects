@@ -1,6 +1,6 @@
-# Public Projects - GuilhRib21 :sunglasses:
+# Meus Projetos Públicos - GuilhRib21 :sunglasses:
 
-1. Bank Project - Simulation of bank actions on .net
+1. Bank Account Project - Simulação de uma conta bancária
 
 
 ## Minhas Redes Sociais
